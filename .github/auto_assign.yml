@@ -1,0 +1,14 @@
+addReviewers: true
+addAssignees: true
+reviewers:
+  - samanthrachelb
+
+numberOfReviewers: 1
+
+assignees:
+  - samantharachelb
+
+numberOfAssignees: 1
+
+skipKeywords:
+  - wip
